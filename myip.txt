@@ -1,0 +1,1 @@
+javascript:(function()%7Bwindow.callback = function(obj) %7B alert('Ç†Ç»ÇΩÇÃIPÇÕ ' + obj.ip + ' Ç≈Ç∑ÅB');%7D;var d = document;var e = d.createElement('script');e.charset='utf-8';e.src = 'http://jsonip.com/callback';d.getElementsByTagName('head')%5B0%5D.appendChild(e);%7D)();
